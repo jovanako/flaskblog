@@ -1,0 +1,16 @@
+.account-img {
+  height: 125px;
+  width: 125px;
+  margin: 15px;
+}
+
+.article-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.article-img {
+  height: 100px;
+  width: 100px;
+  margin: 15px;
+}
